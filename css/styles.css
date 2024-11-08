@@ -1,0 +1,89 @@
+body{
+    background-color:rgb(246, 241, 237)
+
+}
+header{
+    background-color:steelblue;
+    text-align:center;
+    position: relative;
+    height: 200px;
+}
+
+h1{
+    color:rgb(230, 213, 196);
+    text-align:center;
+    background-color:steelblue;
+    font-size:50px;
+    position: absolute;
+    left: 550px;
+}
+
+nav{
+    position: absolute;
+    left: 500px;
+    top: 100px;
+}
+
+nav li{
+    display: inline;
+}
+
+nav a {
+    color:rgb(213, 239, 240)
+}
+
+h3{
+    color:rgb(6, 67, 107);
+}
+h4{
+    color:rgb(230, 213, 196);
+}
+
+.alkatra{
+  font-family: "Alkatra", system-ui;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+.itim-regular {
+    font-family: "Itim", cursive;
+    font-weight: 2;
+    font-style: normal;
+    font-size: 30px;
+} 
+
+.card {
+    background-color: rgb(235, 219, 199);
+    width: 400px;
+    border:rgb(213, 239, 240) 5px solid ;
+    padding: 15px ;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.img{
+    max-width: 100%;
+    margin: 5px;
+}
+
+.contenedor_limite {
+    background-color: rgb(238, 229, 218) ;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+section{
+    margin: 30px;
+}
+
+footer{
+    background-color:steelblue;
+    text-align:center;
+    height: 150px;
+}
+
+.brim{
+    left: 500px;
+    top: 100px;
+}
